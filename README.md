@@ -1,2 +1,2 @@
-# Data_science_excelr
-learning from excelr
+# Data_science
+Under learning
